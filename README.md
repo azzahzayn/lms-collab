@@ -1,1 +1,1 @@
-# lms-collab
+# lms-collab - Library Management system
